@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/LFQN6bh5iw8AAAAd/dog-techie.gif"  autoplay width="400" hight="auto">
+  <img src="https://media1.tenor.com/m/MnbT9wDiJP0AAAAd/dog-sit.gif"  autoplay width="400" hight="auto">
 </div>
 <div id="header" align="center">
   <a href="https://t.me/ivpavlov4">
